@@ -8,7 +8,7 @@ The material storage of World Robot Summit(Competition) Tunnel Disaster Response
 
 ## How to use this repository
 
-  1. Download WRS2019.zip  
+  1. Download wrs2019_20191216_154253.zip  
   2. Unzip wrs2019_20191216_154253.zip under ~/choreonoid/ext (After extracting, you can see ~/choreonoid/ext/WRS2019)  
   3. Rebuild choreoind  
 
