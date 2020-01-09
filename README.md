@@ -19,5 +19,6 @@ Please find field images and run scripts in the [wiki page](https://github.com/W
 
 ## The location of the simulation log files  
 After running a simulation, you can find a simulation log file under ~/choreonoid/ext/WRS2019/project.  
+Please see also [Choreonoid documentation](https://choreonoid.org/en/manuals/1.7/simulation/execution-and-playback.html).  
 
 Edited: 9th Jan. 2020
