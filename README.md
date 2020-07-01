@@ -4,7 +4,8 @@ The material storage of World Robot Summit(Competition) Tunnel Disaster Response
 ## Requirements  
 
   1. [Choreonoid (tag=wrs2019)](https://choreonoid.org/en/manuals/latest/index.html)  
-  2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), The AGX highest version which we concirned that it is working is 2.27.1.3 .  
+  2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), The AGX highest version is 2.21.3 which was used in WRS2018. There are capability that higher version which can be used will be found.  
+ 
 
 ## How to use this repository  
 If you have to install choreonoid now, please follow below commands:  
