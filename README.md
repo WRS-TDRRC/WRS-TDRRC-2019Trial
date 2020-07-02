@@ -31,6 +31,7 @@ Or you are already using choreonoid wrs2019, please follow below commands:
     $ cmake .. -DBUILD_AGX_DYNAMICS_PLUGIN=ON -DBUILD_AGX_BODYEXTENSION_PLUGIN=ON -DBUILD_COMPETITION_PLUGIN=ON -DENABLE_CORBA=ON -DBUILD_CORBA_PLUGIN=ON -DBUILD_MULTICOPTER_PLUGIN=ON -DBUILD_MULTICOPTER_SAMPLES=ON -DBUILD_SCENE_EFFECTS_PLUGIN=ON -DBUILD_WRS2018=ON  
     $ make -j8  
 
+Before run, you have to add "source /opt/Algoryx/AgX-2.21.3.1/setup_env.bash" at the end of ~/.bashrc , and reopen the terminal.  
 Please find field images and run scripts in the [wiki page](https://github.com/WRS-TDRRC/WRS-TDRRC-2019Trial/wiki).  
 
 ## The location of the simulation log files  
