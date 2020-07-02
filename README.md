@@ -11,7 +11,7 @@ The material storage of World Robot Summit(Competition) Tunnel Disaster Response
 If you have to install choreonoid now, please follow below commands:  
 
     $ cd ~  
-    $ git clone -b "wrs2019" https://github.com/s-nakaoka/choreonoid.git  
+    $ git clone -b "wrs2019" https://github.com/choreonoid/choreonoid.git  
     $ cd choreonoid/ext  
     $ wget https://github.com/WRS-TDRRC/WRS-TDRRC-2019Trial/blob/master/WRS2019.zip  
     $ unzip WRS2019.zip  
