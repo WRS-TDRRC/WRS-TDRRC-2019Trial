@@ -5,9 +5,9 @@ The material storage of World Robot Summit(Competition) Tunnel Disaster Response
 
   1. [Choreonoid](https://choreonoid.org/en/manuals/latest/index.html), [Installing Choreonoid](https://choreonoid.org/en/manuals/latest/install/build-ubuntu.html#development-version). If you use ROS melodic, see also [Teleoperation Sample using ROS](https://choreonoid.org/en/manuals/latest/wrs2018/teleoperation-ros.html)  
   2. [AGX for Choreonoid](https://choreonoid.org/en/manuals/latest/agxdynamics/index.html), [Downloading AGX](https://www.algoryx.se/download/?id=1887), [Installing AGX](https://www.algoryx.se/documentation/complete/agx/tags/latest/UserManual/source/installation.html#install-on-ubuntu-16-04). The last AGX version can be used.
-  3. ROS catkin tools
+  3. ROS catkin tools  
  
-## How to use this repository WITH ROS 
+## How to use this repository WITH ROS  
 If you have to install choreonoid now, please follow below commands:  
 
     $ sudo apt-get install python-catkin-tools qt5-default libqt5x11extras5-dev qt5-style-plugins  
@@ -41,7 +41,7 @@ Please find field images and run scripts in the [wiki page](https://github.com/W
 * TERMINAL 3:  
     $ cd ~/catkin_ws  
     $ source devel/setup.bash  
-    $ rosrun choreonoid_ros choreonoid devel/share/choreonoid-1.8/WRS2019/TS1-DoubleArmV7A-ROS.py  
+    $ rosrun choreonoid_ros choreonoid devel/share/choreonoid-1.8/WRS2019/script/TS1-DoubleArmV7A-ROS.py  
 
 * TERMINAL 4:  
     $ rqt_image_view  
