@@ -312,7 +312,7 @@ items:
           data: 
             isNoDelayMode: false
             controllerOptions: ""
-            controller: "SpreaderController"
+            controller: "SpreaderController2019"
             baseDirectory: "Controller directory"
             reloading: false
             isOldTargetVariableMode: false
